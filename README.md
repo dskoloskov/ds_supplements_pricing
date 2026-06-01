@@ -29,7 +29,7 @@
 
 ```bash
 # 1. Склонируйте репозиторий
-git clone [https://github.com/dskoloskov/ds_supplements_pricing.git](https://github.com/dskoloskov/ds_supplements_pricing.git)
+git clone https://github.com/dskoloskov/ds_supplements_pricing.git
 
 # 2. Перейдите в папку
 cd ds_supplements_pricing
